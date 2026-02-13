@@ -1,5 +1,19 @@
 # 🔍 Technical Analysis
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Investimentos (RPi 5 16GB)](https://github.com/AslamSys/_system/blob/main/hardware/investimentos/README.md)** → **investimentos-technical-analysis**
+
+### Containers Relacionados (investimentos)
+- [investimentos-brain](https://github.com/AslamSys/investimentos-brain)
+- [investimentos-trading-bot](https://github.com/AslamSys/investimentos-trading-bot)
+- [investimentos-news-sentiment](https://github.com/AslamSys/investimentos-news-sentiment)
+- [investimentos-betting-bot](https://github.com/AslamSys/investimentos-betting-bot)
+- [investimentos-ml-predictor](https://github.com/AslamSys/investimentos-ml-predictor)
+- [investimentos-portfolio-manager](https://github.com/AslamSys/investimentos-portfolio-manager)
+
+---
+
 **Container:** `technical-analysis`  
 **Stack:** Python + TA-Lib + pandas  
 **Propósito:** Cálculo de indicadores técnicos
